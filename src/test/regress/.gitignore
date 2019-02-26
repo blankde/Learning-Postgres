@@ -1,0 +1,9 @@
+/pqsignal.c
+
+# Local binaries
+/pg_regress
+
+# Generated subdirectories
+/tmp_check/
+/results/
+/log/
